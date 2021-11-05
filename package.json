@@ -1,0 +1,17 @@
+{
+  "name": "basicreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Emircan Özenir <emircan.ozenir@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "node-fetch": "^3.0.0",
+    "slugify": "^1.6.1"
+  }
+}
